@@ -5,6 +5,7 @@
 
 def main():
     """
+        Python Tricks Today:
         How to merging two dictionary
     """
     data1 = {"A": 1, "B": 2}
